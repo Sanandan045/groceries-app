@@ -1,4 +1,9 @@
 # grocrry
+In this app,  I focused on the UI part.  tech stack used Flutter and Getx
+# screen 
+Login and Register Email and Mobile Verification via otp
+ My Cart and checkout screen and product details
+ Home screen
 
 A new Flutter project.
 
