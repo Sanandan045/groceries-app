@@ -44,7 +44,7 @@ class _HomeScreenState extends State<OnboradingScreen> {
                       fontSize: 48,
                       fontWeight: FontWeight.w600),
                 ),
-                 Text("Ger your groceries in as fast as one hour",style: TextStyle(
+                 Text("Ger your groceries in as fast as one hour ",style: TextStyle(
                   color: Color(0xB2FCFCFC),
                   fontSize: 16,
                   fontWeight: FontWeight.w500,
